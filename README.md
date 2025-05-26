@@ -1,2 +1,2 @@
 # landing_page
-landing page 
+I am using CSS and flexbox and building my landing page
